@@ -40,7 +40,7 @@ This is how we will test and name our devices on our network.
 ![How to 4](https://github.com/user-attachments/assets/371797b8-4675-4248-99bb-9b4fe29b7bb8)
 It will take a while to scan ~ 30-60 seconds
 It will show a list of devices connected to the network
-![How to 5](https://github.com/user-attachments/assets/0739c970-b53c-4ffa-b3a9-063cd56111cf)
+![How to 5](https://github.com/user-attachments/assets/8fa5e5c6-3792-47ca-a60a-797cd3bbc064)
 You will most likley be able to tell a devices name/what it is fom the defualt device name.
 8.Right click on a device you think is unaffected by parental controls.( In my case, I can tell by the default name, that this is my TV, and most likely is unaffected by Gryphon)
 9."Click on Set MAC Address To This Device", this will set your computer MAC address to the selected devices MAC address. This is effectivly pretending to be that device.
