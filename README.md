@@ -1,5 +1,5 @@
 # UltimateSpoofer
-A GUI tool for scanning local networks and managing MAC addresses of network devices.
+A GUI tool for scanning local networks and managing MAC addresses of network devices. Coded Specifically for Gryphon Parental Controls
 
 ## Requirements
 - Windows OS
